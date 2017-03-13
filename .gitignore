@@ -1,0 +1,5 @@
+vagrant/.vagrant/
+www/
+vagrant-node.sublime-project
+vagrant-node.sublime-workspace
+*.retry
